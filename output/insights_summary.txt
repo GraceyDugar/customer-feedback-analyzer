@@ -1,0 +1,31 @@
+CUSTOMER FEEDBACK INSIGHTS SUMMARY
+========================================
+
+Total feedback analyzed: 30
+
+Sentiment Breakdown:
+sentiment
+NEGATIVE    26
+POSITIVE     4
+
+Top Themes by Volume:
+theme
+confusion                 13
+bug                        4
+feature request            3
+praise                     3
+onboarding issue           2
+other                      2
+trust and transparency     2
+pricing concern            1
+
+Themes with Negative Sentiment (highest priority):
+theme
+confusion                 12
+bug                        3
+feature request            3
+onboarding issue           2
+other                      2
+trust and transparency     2
+pricing concern            1
+praise                     1
