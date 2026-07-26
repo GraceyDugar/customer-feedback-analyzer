@@ -1,3 +1,4 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customers-feedback-analyzer.streamlit.app/)
 # Customer Feedback Analyzer
 
 An end-to-end pipeline that takes raw customer feedback, classifies it by sentiment and theme using AI, and surfaces which issues are most urgent — turning messy qualitative feedback into a decision-ready priority view for a product team.
