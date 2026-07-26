@@ -1,0 +1,31 @@
+source,date,author,text,word_count
+synthetic_sample,2026-06-02,user_a1,"Tried generating a login screen and it only implemented half of what I described in the prompt, had to redo it manually",22
+synthetic_sample,2026-06-03,user_b2,"Generation accuracy is hit or miss, sometimes it nails it, sometimes it skips half the requirements I gave",18
+synthetic_sample,2026-06-04,user_c3,"The mobile preview doesn't update properly, I had to refresh multiple times to see my changes",16
+synthetic_sample,2026-06-05,user_d4,"QR preview kept failing to load on my phone, ended up testing on desktop instead which defeats the purpose",19
+synthetic_sample,2026-06-06,user_e5,"Interactive elements in the preview don't actually respond, buttons look right but nothing happens when I tap them",18
+synthetic_sample,2026-06-07,user_f6,"Wish it asked me clarifying questions before generating, it just guesses and I end up wasting a generation credit",19
+synthetic_sample,2026-06-08,user_g7,"Would love an AI planning step where it confirms what I want before building, right now it feels like a guessing game",22
+synthetic_sample,2026-06-09,user_h8,"Not clear what makes this different from other AI app builders, the positioning is confusing on the landing page",19
+synthetic_sample,2026-06-10,user_i9,"I don't understand what's actually happening under the hood, which model is generating my code?",15
+synthetic_sample,2026-06-11,user_j10,"No transparency on backend or architecture, feels like a black box which makes me hesitant to trust it for a real project",22
+synthetic_sample,2026-06-12,user_k11,How many credits am I using per generation? Pricing and usage feel opaque,13
+synthetic_sample,2026-06-13,user_l12,The AI-native UI generation is cool in concept but the canvas feels clunky compared to Figma-like tools,17
+synthetic_sample,2026-06-14,user_m13,Streaming generation is neat to watch but I wish I could pause and adjust mid-generation,15
+synthetic_sample,2026-06-15,user_n14,"Onboarding threw me straight into a blank prompt box, some example prompts would have helped a ton",17
+synthetic_sample,2026-06-16,user_o15,Would be great to have prompt templates for common app types like e-commerce or social feed,16
+synthetic_sample,2026-06-17,user_p16,"Deployment process wasn't clear, I generated an app but had no idea how to actually ship it",17
+synthetic_sample,2026-06-18,user_q17,"As a developer I want more trust in the generated code before deploying, some kind of validation step would help",20
+synthetic_sample,2026-06-19,user_r18,"No version history, I overwrote a version I liked and couldn't get it back",14
+synthetic_sample,2026-06-20,user_s19,Would be useful to see analytics on which prompts generate better results so I can improve my inputs,18
+synthetic_sample,2026-06-21,user_t20,"Free tier is too limited to actually evaluate if this fits my workflow, ran out of credits before I could test properly",22
+synthetic_sample,2026-06-22,user_u21,Wanted to inspect the generated code before committing to it but there was no easy way to view it,19
+synthetic_sample,2026-06-23,user_v22,"No architecture view for the free tier, hard to judge code quality before upgrading",14
+synthetic_sample,2026-06-24,user_w23,"When it works, it's genuinely impressive, generated a working screen in under a minute",14
+synthetic_sample,2026-06-25,user_x24,"Really like the concept, natural language to app is exactly what I needed for quick prototyping",16
+synthetic_sample,2026-06-26,user_y25,"Support team was responsive when I flagged a bug, appreciated the quick turnaround",13
+synthetic_sample,2026-06-27,user_z26,"The idea is great but execution needs polish, especially around prompt accuracy",12
+synthetic_sample,2026-06-28,user_aa27,"Been using it for quick client demos, saves me hours compared to building manually",14
+synthetic_sample,2026-06-29,user_bb28,"Confused about what happens to my data and generated code, more clarity on privacy would help",16
+synthetic_sample,2026-06-30,user_cc29,Love the speed but the generated navigation between screens often breaks,11
+synthetic_sample,2026-07-01,user_dd30,Would pay for a plan with more credits if I could trust the output quality first,16
