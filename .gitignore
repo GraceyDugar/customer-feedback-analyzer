@@ -1,4 +1,5 @@
 venv/
 data/raw/*
+!data/raw/feedback_raw.csv
 .env
 __pycache__/
